@@ -11,11 +11,11 @@
 
 ## 팀원 구성
 
-- back end 김재현
+- Backend 김재현
 
-- back end 최예진
+- Backend 최예진
 
-- AI/DATA 정지호
+- AI/data 정지호
 
 
 ## 실습
