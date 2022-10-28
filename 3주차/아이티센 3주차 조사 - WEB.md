@@ -81,10 +81,10 @@ WWW 나 W3 라고 부르기도 하지만, Web이라는 말로 가장 많이 부�
 
 - 이와 대비되는 개념으로 정적 컨텐츠가 있는데 동적 컨텐츠보다 더 빠르게 동작하고 쉽게 캐시될 수 있지만, 반환되는 컨텐츠의 내용이 동일하다는 점이 다르다.
 
-![image](https://user-images.githubusercontent.com/108641325/194742613-2f25d07e-7d4b-423c-bfaa-b3d852aa426f.png)
-
-![image](https://user-images.githubusercontent.com/108641325/194742619-632f1edd-92c7-48d0-8e9c-53c2f08e7a8f.png)
-
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/108641325/194742613-2f25d07e-7d4b-423c-bfaa-b3d852aa426f.png"/>	
+ <img src="https://user-images.githubusercontent.com/108641325/194742619-632f1edd-92c7-48d0-8e9c-53c2f08e7a8f.png"/>
+</p>
 
 ### 4. 웹의 기술
 
@@ -191,8 +191,9 @@ WWW 나 W3 라고 부르기도 하지만, Web이라는 말로 가장 많이 부�
 
 - 단일 서버에서도 동시에 많은 연결을 처리할 수 있다.
 
-![image](https://user-images.githubusercontent.com/108641325/194742670-aa8506fb-be71-4cdb-8cee-bc655820c4f0.png)
-
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/108641325/194742670-aa8506fb-be71-4cdb-8cee-bc655820c4f0.png"/>
+</p>
 
 2. SSL 지원 및 SNI 기능 지원
 
@@ -246,8 +247,9 @@ WWW 나 W3 라고 부르기도 하지만, Web이라는 말로 가장 많이 부�
 
 - 이 문제들은 킵얼라이브(Keep Alive)를 활성화함으로 해결할 수 있지만, 대량 접속 시 효율이 급격히 떨어지는 문제점이 발생한다.
 
-![image](https://user-images.githubusercontent.com/108641325/194742709-cba3288f-a403-4386-922a-f45e0b3f7925.png)
-
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/108641325/194742709-cba3288f-a403-4386-922a-f45e0b3f7925.png"/>
+</p>
 
 #### 3. 라이티(혹은 라이티피디)
 
@@ -298,8 +300,9 @@ WWW 나 W3 라고 부르기도 하지만, Web이라는 말로 가장 많이 부�
 
 - SSL 및 TLS 지원
 
-![image](https://user-images.githubusercontent.com/108641325/194742722-bb2cfb20-fe96-4f10-8565-669c9131bfd1.png)
-
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/108641325/194742722-bb2cfb20-fe96-4f10-8565-669c9131bfd1.png"/>
+</p>
 
 #### 5. 체로키
 
