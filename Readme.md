@@ -62,6 +62,18 @@
 
 ---
 
+- zabbix로 서버 모니터링 
+
+![image](https://user-images.githubusercontent.com/108641325/222957758-f77772ce-8042-4e84-ae54-103f876856c7.png)
+
+![image](https://user-images.githubusercontent.com/108641325/222957986-2b2ac7d9-06bf-43e6-a4ca-6cc0689dbb0f.png)
+
+![image](https://user-images.githubusercontent.com/108641325/222958046-c61a297b-2687-4cf4-9a49-e0cd722a578d.png)
+
+![image](https://user-images.githubusercontent.com/108641325/222958098-af07afa5-7bf6-41b7-aafb-d84e703b356d.png)
+
+---
+
 - zabbix를 활용한 연동
 
 <p align="center">
